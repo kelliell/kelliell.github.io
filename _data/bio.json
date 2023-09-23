@@ -32,8 +32,8 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii, Hilo, HI",
+      "area": "Conservation Biology (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
@@ -112,5 +112,6 @@
     {
       "name": "Available upon request"
     }
+ 
   ]
 }

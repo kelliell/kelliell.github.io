@@ -7,10 +7,9 @@
     "phone": "9413568188",
     "website": "https://kelliell.github.io",
     "summary": "I am studying for a M.S. in Conservation Biology in the Department of Tropical Conservation Biology and Environmental Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96720", "city": "Hilo", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96720", "city": "Hilo", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
-      { "network": "github", "username": "kelliell", "url": "http://github.com/kelliell" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kelliell", "url": "http://github.com/kelliell" }
     ]
   },
   "interests": [

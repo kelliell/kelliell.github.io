@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Kelli Elliott",
+    "label": "Graduate Student",
+    "picture": "https://github.com/kelliell.png",
+    "email": "kelliell@hawaii.edu",
+    "phone": "9413568188",
+    "website": "https://kelliell.github.io",
+    "summary": "I am studying for a M.S. in Conservation Biology in the Department of Tropical Conservation Biology and Environmental Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96720", "city": "Hilo", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "github", "username": "kelliell", "url": "http://github.com/kelliell" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Conservation Biology" },
+    { "name": "Invasive plant species" },
+    { "name": "Micro plastics" },
+    { "name": "Soil Legacy" },
+    { "name": "Native Plant Species" }
   ],
   "skills": [
     {
